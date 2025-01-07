@@ -5,7 +5,7 @@
 **🎓 Mahasiswa Manajemen Informatika | 💻 Web Developer | 🚀 Penggemar Teknologi**  
 
 > _"Code is not just my work, it's my passion."_
------------------------------------------------------------------------------------------------
+---
 </div>
 
 ## 🛠️ Tentang Saya  
