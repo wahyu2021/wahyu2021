@@ -18,7 +18,8 @@ Saya adalah mahasiswa **Politeknik Negeri Sriwijaya** yang sedang menekuni bidan
 ## 🧰 Keterampilan Teknis  
 
 ### **Bahasa Pemrograman**  
-- 🌐 PHP (Native & Laravel)  
+- 🌐 PHP (Native & Laravel)
+- Javascript 
 - ☕ Java (Swing untuk Pengembangan GUI)  
 - 🖥️ Visual Basic  
 
