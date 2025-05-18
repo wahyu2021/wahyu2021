@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧪 I’m currently working on:<br>  - Laravel 11 Online Library System<br>  - KampusKu: Java Swing & JavaFX Campus Management App<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>  - Web app development using Laravel or Next.js<br>  - Cybersecurity educational content<br><br>🤝 I’m looking for help with:<br>  - Advanced Flutter development<br>  - Real-world ethical hacking labs<br><br>🌱 I’m currently learning:<br>  - Flutter & Firebase for cross-platform apps<br>  - Cybersecurity topics through CTF challenges (Web Exploit, Forensic, Cryptography)<br><br>💬 Ask me about:<br>  - Laravel, Livewire, Tailwind<br>  - PHP Native & SQL<br>  - Java (OOP, Java Swing, JavaFX)<br>  - Visual Basic<br>  - Playing CTFs and solving infosec challenges<br><br>⚡ Fun fact:<br>  I live in Banyuasin and I play basketball in my free time! 🏀
+<br>🌱 I’m currently learning:<br>  - Flutter & Firebase for cross-platform apps<br>  - Cybersecurity topics through CTF challenges (Web Exploit, Forensic, Cryptography)<br><br>⚡ Fun fact:<br>  I live in Banyuasin and I play basketball in my free time! 🏀
 
 
 ## 🌐 Socials:
