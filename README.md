@@ -5,6 +5,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+</picture>
+
 </div>
 
 
@@ -47,12 +53,6 @@
 
 # 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wahyu_wn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/wahyuwahidnugroho) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@wahyuwahidnugroho4724)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
-</picture>
 
 </div>
 
