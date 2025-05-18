@@ -48,12 +48,12 @@
 
 </div> 
 
-<div align="center"> 
+<!-- <div align="center"> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wahyu2021&icon=9&color=0)](https://visitcount.itsvg.in)
 
-</div> 
+</div>  -->
 
 <div align="center"> 
 
