@@ -43,7 +43,7 @@
 ### 🌱 I’m currently learning:
 
 - Flutter & Firebase for cross-platform apps<br> 
-- Cybersecurity topics through CTF challenges (Web Exploit, Forensic, Cryptography)<br><br>
+- Cybersecurity topics through CTF challenges (Web Exploit, Forensic, Cryptography)<br>
 
 ### ⚡ Fun fact: 
 - I live in Banyuasin and I play basketball in my free time! 🏀
