@@ -55,6 +55,15 @@
 
 </div> 
 
+<div align="center"> 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+</picture>
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
