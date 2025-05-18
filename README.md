@@ -37,7 +37,7 @@
 
 <div align="center">
 
-# 💫 About Me:
+# 💫 About Me
 <div align="left">
 
 ### 🌱 I’m currently learning:
