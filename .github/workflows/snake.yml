@@ -1,45 +1,70 @@
 name: GitHub Snake Game 🐍
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # Jalankan workflow setiap hari jam 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual trigger
+  # Izinkan trigger manual dari tab Actions
   workflow_dispatch:
 
-  # Run on push to main branch
+  # Jalankan juga saat ada push ke branch main (atau branch default Anda)
+  # Ini akan memastikan animasi diperbarui jika ada perubahan di branch utama,
+  # misalnya jika Anda mengubah README yang merujuk ke animasi ini.
   push:
     branches:
-      - main
+      - main # Ganti 'main' jika nama branch default Anda berbeda (misalnya 'master')
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 10 # Batas waktu eksekusi job
+
+    # Tambahkan blok permissions di sini
+    # 'contents: write' diperlukan agar action 'peaceiris/actions-gh-pages'
+    # dapat melakukan push ke branch 'output'.
+    permissions:
+      contents: write
 
     steps:
-      # Step 1: Checkout repository
+      # Langkah 1: Checkout repositori
       - name: 📦 Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate GitHub Snake animations
+      # Langkah 2: Buat animasi GitHub Snake
+      # GITHUB_TOKEN biasanya tersedia secara implisit untuk actions.
+      # Menyertakannya di 'env' untuk Platane/snk seringkali tidak diperlukan,
+      # namun tidak masalah jika ada. Yang penting adalah token untuk langkah deploy.
       - name: 🐍 Generate GitHub Contributions Snake
         uses: Platane/snk@v3
         with:
+          # Nama pengguna GitHub (otomatis diambil dari pemilik repositori)
           github_user_name: ${{ github.repository_owner }}
+          # Daftar file output yang akan dihasilkan di dalam direktori 'dist'
+          # Format nama file dengan parameter query (?palette=github-dark) adalah
+          # cara Platane/snk menerima opsi untuk tiap file output.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # env: # Baris ini bisa diaktifkan jika Platane/snk secara spesifik membutuhkan token di env
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy to 'output' branch
-      - name: 🚀 Deploy to GitHub Pages (output branch)
+      # Langkah 3: Deploy file animasi ke branch 'output'
+      # Action ini akan mengambil konten dari 'publish_dir' dan menempatkannya
+      # di root dari 'publish_branch'.
+      - name: 🚀 Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Direktori yang berisi file animasi yang akan di-publish
           publish_dir: ./dist
+          # Branch tujuan untuk menyimpan file animasi
           publish_branch: output
-          commit_message: "Update GitHub Snake animation [skip ci]"
+          # Pesan commit kustom
+          commit_message: "chore: Update GitHub Snake animation 🐍 [skip ci]"
+          # Opsi 'user_name' dan 'user_email' bersifat opsional jika Anda ingin
+          # commit dilakukan atas nama pengguna tertentu. Defaultnya adalah GitHub Actions bot.
+          # user_name: 'github-actions[bot]'
+          # user_email: 'github-actions[bot]@users.noreply.github.com'
+          # force_orphan: true # Gunakan dengan hati-hati: membuat branch baru tanpa histori sebelumnya
