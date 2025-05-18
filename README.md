@@ -5,10 +5,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
+</picture>
+
 </div>
-
 ---
-
 # 💫 About Me:
 🌱 I’m currently learning:<br>  - Flutter & Firebase for cross-platform apps<br>  - Cybersecurity topics through CTF challenges (Web Exploit, Forensic, Cryptography)<br><br>⚡ Fun fact:<br>  I live in Banyuasin and I play basketball in my free time! 🏀
 
@@ -55,15 +59,7 @@
 
 </div>  -->
 
-<div align="center"> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
-</picture>
-
-</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
