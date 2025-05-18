@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wahyu_wn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/wahyuwahidnugroho) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@wahyuwahidnugroho4724) 
 
 </div>
@@ -44,14 +44,14 @@
 
 <div align="center"> 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div> 
 
 <div align="center"> 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wahyu2021&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div> 
