@@ -1,20 +1,9 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
