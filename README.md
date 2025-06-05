@@ -3,10 +3,10 @@
 ## 📊 GitHub Stats
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=radical&hide_border=true" />
     </td>
   </tr>
@@ -16,7 +16,6 @@
     </td>
   </tr>
 </table>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
