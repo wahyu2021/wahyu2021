@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=F7673D&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=F7673D&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
