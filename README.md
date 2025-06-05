@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 📊 GitHub Stats
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
