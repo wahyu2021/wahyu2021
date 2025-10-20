@@ -36,13 +36,11 @@ jobs:
       # Menyertakannya di 'env' untuk Platane/snk seringkali tidak diperlukan,
       # namun tidak masalah jika ada. Yang penting adalah token untuk langkah deploy.
       - name: 🐍 Generate GitHub Contributions Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           # Nama pengguna GitHub (otomatis diambil dari pemilik repositori)
           github_user_name: ${{ github.repository_owner }}
-          # Daftar file output yang akan dihasilkan di dalam direktori 'dist'
-          # Format nama file dengan parameter query (?palette=github-dark) adalah
-          # cara Platane/snk menerima opsi untuk tiap file output.
+          # Daftar file output yang akan dihasilkan
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
