@@ -95,10 +95,9 @@ const wahyu = {
 
 | Project | Tech | Description |
 |:--------|:-----|:------------|
-| 📚 **Polsri Self Service Library** | `Laravel` `PHP` | Sistem perpustakaan mandiri dengan 65+ commits |
-| 🎮 **Kitsune Play v1.3.2** | `TypeScript` | Custom Game Launcher dengan UI modern |
-| 🛒 **VB.Net POS System** | `VB.NET` | Sistem Point of Sale desktop |
-| 🤖 **SISAK Auto Presensi** | `Python` | Script automasi presensi dengan web scraping |
+| 📚 **Polsri Self Service Library** | `Laravel` `PHP` | Sistem perpustakaan mandiri untuk Polsri Tugas UAS|
+| 🎮 **Kitsune Play** | `TypeScript` | Custom Game Launcher |
+| 🤖 **SISAK Auto Presensi** | `Python` | Script automasi presensi akademik |
 
 </div>
 
