@@ -117,7 +117,7 @@ const wahyu = {
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyu2021&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=wahyu2021&theme=tokyonight&hide_border=true)
 
 </div>
 
