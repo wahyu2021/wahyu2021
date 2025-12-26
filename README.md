@@ -27,17 +27,11 @@
 
 ## 💫 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 🎓 **Mahasiswa D4 Manajemen Informatika** @ Politeknik Negeri Sriwijaya (Semester 6)
 
-💼 **Upcoming Intern** ?
+💼 **Upcoming Intern** @ Bank SumselBabel (2026)
 
 📍 **Banyuasin, Indonesia** 🇮🇩
 
@@ -75,16 +69,15 @@ const wahyu = {
 ### 🎨 Frontend & Modern Apps
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ### 🔐 Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -100,44 +93,14 @@ const wahyu = {
 
 ## 🚀 Featured Projects
 
+| Project | Tech | Description |
+|:--------|:-----|:------------|
+| 📚 **Polsri Self Service Library** | `Laravel` `PHP` | Sistem perpustakaan mandiri dengan 65+ commits |
+| 🎮 **Kitsune Play v1.3.2** | `TypeScript` | Custom Game Launcher dengan UI modern |
+| 🛒 **VB.Net POS System** | `VB.NET` | Sistem Point of Sale desktop |
+| 🤖 **SISAK Auto Presensi** | `Python` | Script automasi presensi dengan web scraping |
+
 </div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 Polsri Self Service Library
-**Teknologi:** `Laravel` `PHP` `Blade`
-
-Sistem perpustakaan mandiri yang komprehensif dengan 65+ commits. Mencakup manajemen buku, peminjaman, dan antarmuka pengguna mandiri.
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
-
-</td>
-<td width="50%">
-
-### 🎮 Kitsune Play (v1.3.2)
-**Teknologi:** `TypeScript`
-
-Custom Game Launcher dengan antarmuka modern untuk manajemen library game pribadi.
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 SISAK Auto Presensi
-**Teknologi:** `Python`
-
-Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan web scraping.
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -146,12 +109,11 @@ Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan 
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wahyu2021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=wahyu2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=wahyu2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
 </div>
 
@@ -174,7 +136,7 @@ Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/wahyu2021/wahyu2021/output/github-snake.svg">
 </picture>
@@ -191,7 +153,7 @@ Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan 
 | 🎯 | Status |
 |:---:|:---|
 | 🎓 | Semester 6 @ **Politeknik Negeri Sriwijaya** |
-| 💼 | Upcoming Intern ? |
+| 💼 | Upcoming Intern @ **Bank SumselBabel** (2026) |
 | 📚 | Learning **Machine Learning & Deep Learning** |
 | 🔐 | Exploring **Cybersecurity & CTF Challenges** |
 
@@ -204,15 +166,9 @@ Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan 
 
 ## 🌐 Let's Connect!
 
-<a href="https://github.com/wahyu2021" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/wahyuwahidnugroho" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://youtube.com/@wahyuwahidnugroho4724" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyuwahidnugroho)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@wahyuwahidnugroho4724)
 
 </div>
 
@@ -232,8 +188,6 @@ Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan 
 <div align="center">
 
 ### 💖 Thanks for visiting!
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
