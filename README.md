@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7673D&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%8F%80+Basketball+Player)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7673D&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Mahasiswa+D4+Manajemen+Informatika;Laravel+%26+TypeScript+Specialist)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,37 +27,38 @@
 
 ## 💫 About Me
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
 </div>
 
-<table>
-<tr>
-<td width="55%">
+<br/>
 
-```yaml
-name: Wahyu Wahid Nugroho
-location: Banyuasin, Indonesia 🇮🇩
-current_focus:
-  - Flutter & Firebase Development
-  - Cybersecurity & CTF Challenges
-    (Web Exploit, Forensic, Crypto)
-  
-interests:
-  - Full Stack Development
-  - Mobile App Development
-  - Cloud Computing
-  - Open Source Contribution
+<div align="center">
 
-hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
+🎓 **Mahasiswa D4 Manajemen Informatika** @ Politeknik Negeri Sriwijaya (Semester 6)
+
+💼 **Upcoming Intern** ?
+
+📍 **Banyuasin, Indonesia** 🇮🇩
+
+</div>
+
+<br/>
+
+```typescript
+const wahyu = {
+    role: "Full Stack Developer",
+    education: "D4 Manajemen Informatika - Politeknik Negeri Sriwijaya",
+    currentFocus: ["Machine Learning", "Deep Learning", "Cybersecurity (CTF)"],
+    skills: {
+        backend: ["PHP", "Laravel", "Python"],
+        frontend: ["TypeScript", "JavaScript", "VB.NET"],
+        database: ["MySQL", "Firebase"],
+        security: ["Nmap", "Wireshark", "Burp Suite", "Hash Cracking"],
+    },
+    funFact: "I play basketball 🏀 in my free time!"
+};
 ```
-
-</td>
-<td width="45%">
-
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891571f61e883/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a49524756436e5246333454714a58453867787856656a512e676966" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -66,59 +67,77 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Backend & Web Development
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Livewire](https://img.shields.io/badge/Livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+### 🎨 Frontend & Modern Apps
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+### 🔐 Security Tools
+![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+<!-- Featured Projects Section -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Polsri Self Service Library
+**Teknologi:** `Laravel` `PHP` `Blade`
+
+Sistem perpustakaan mandiri yang komprehensif dengan 65+ commits. Mencakup manajemen buku, peminjaman, dan antarmuka pengguna mandiri.
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
+
+</td>
+<td width="50%">
+
+### 🎮 Kitsune Play (v1.3.2)
+**Teknologi:** `TypeScript`
+
+Custom Game Launcher dengan antarmuka modern untuk manajemen library game pribadi.
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 SISAK Auto Presensi
+**Teknologi:** `Python`
+
+Script automasi cerdas untuk presensi otomatis pada sistem akademik menggunakan web scraping.
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyu2021)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -132,7 +151,7 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=wahyu2021&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -164,23 +183,17 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 
 ---
 
-<!-- Trophies Section -->
+<!-- Current Status -->
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 📅 Current Status
 
-<img src="https://github-profile-trophy.vercel.app/?username=wahyu2021&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
-
-<!-- Top Contributed Repo -->
-<div align="center">
-
-## 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=wahyu2021&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+| 🎯 | Status |
+|:---:|:---|
+| 🎓 | Semester 6 @ **Politeknik Negeri Sriwijaya** |
+| 💼 | Upcoming Intern ? |
+| 📚 | Learning **Machine Learning & Deep Learning** |
+| 🔐 | Exploring **Cybersecurity & CTF Challenges** |
 
 </div>
 
@@ -191,17 +204,14 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 
 ## 🌐 Let's Connect!
 
-<a href="https://instagram.com/_wahyu_wn" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+<a href="https://github.com/wahyu2021" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/wahyuwahidnugroho" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://youtube.com/@wahyuwahidnugroho4724" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://github.com/wahyu2021" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -223,7 +233,7 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 
 ### 💖 Thanks for visiting!
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
