@@ -109,11 +109,11 @@ const wahyu = {
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=wahyu2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wahyu2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="180"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahyu2021&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-<img src="https://streak-stats.demolab.com?user=wahyu2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyu2021&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -124,7 +124,7 @@ const wahyu = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyu2021&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahyu2021&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
