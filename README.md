@@ -29,7 +29,9 @@
 
 </div>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<table>
+<tr>
+<td width="55%">
 
 ```yaml
 name: Wahyu Wahid Nugroho
@@ -48,7 +50,14 @@ interests:
 hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%">
+
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891571f61e883/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a49524756436e5246333454714a58453867787856656a512e676966" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -160,7 +169,7 @@ hobbies: ["🏀 Basketball", "💻 Coding", "🎮 Gaming"]
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=wahyu2021&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wahyu2021&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=4&row=2" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
